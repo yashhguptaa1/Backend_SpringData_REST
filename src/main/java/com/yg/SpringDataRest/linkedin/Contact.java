@@ -1,4 +1,5 @@
-package com.yg.SpringDataRest.model;
+//Vid 2.2 : Define First Model Class
+package com.yg.SpringDataRest.linkedin;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

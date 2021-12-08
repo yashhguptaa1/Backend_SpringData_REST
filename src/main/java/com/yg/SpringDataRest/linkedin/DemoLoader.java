@@ -1,7 +1,7 @@
-package com.yg.SpringDataRest.bootstrap;
+//Vid 2.4 : Define Example Data
 
-import com.yg.SpringDataRest.model.Contact;
-import com.yg.SpringDataRest.repositories.ContactRepository;
+package com.yg.SpringDataRest.linkedin;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
